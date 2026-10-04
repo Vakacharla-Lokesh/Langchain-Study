@@ -1,0 +1,14 @@
+[project]
+name = "1-2-hands-on-parallel-runnable"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "black>=26.5.1",
+    "isort>=9.0.1",
+    "langchain>=1.4.2",
+    "langchain-ollama>=1.1.0",
+    "langchain-openrouter>=0.2.9",
+    "python-dotenv>=1.2.3",
+]
